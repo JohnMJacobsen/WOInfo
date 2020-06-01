@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WOInfo</string>
+
+    <string name="main_menu_chest_label">Chest</string>
+    <string name="main_menu_core_label">Core</string>
+    <string name="main_menu_arms_label">Arms</string>
+    <string name="main_menu_upper_label">Upper</string>
+    <string name="main_menu_legs_label">Legs</string>
+    <string name="main_menu_back_label">Back</string>
+
+
+</resources>
